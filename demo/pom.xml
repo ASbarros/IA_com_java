@@ -20,7 +20,7 @@
       <version>2.7.2</version>
     </dependency>
     <dependency>
-      <groupId>org.apache.mahot</groupId>
+      <groupId>org.apache.mahout</groupId>
       <artifactId>mahout-mr</artifactId>
       <version>0.12.2</version>
     </dependency>
