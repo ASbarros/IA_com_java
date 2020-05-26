@@ -12,7 +12,7 @@ public class Recomendados {
   }
 
   private DataModel getModelo(String path) throws IOException {
-    File file = new File("src/main/resources" + path);
+    File file = new File("src/main/resources/" + path);
     return new FileDataModel(file);
   }
 
